@@ -1,0 +1,6 @@
+Makefile
+mancsrv.o
+mancsrv
+cmake-build-debug/
+CMakeLists.txt
+.idea/
